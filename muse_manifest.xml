@@ -1,0 +1,293 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MVQ.com" resolutions="1x" timestamp="1748016073273">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_interior.css" crc="3894470740" ref="galeria:fotos:historia:cultura-y-tradiciones:gracias:index:contacto:carácteristicas"/>
+    <file name="galeria.css" crc="419416275" ref="galeria"/>
+    <file name="fotos.css" crc="3906008849" ref="fotos"/>
+    <file name="historia.css" crc="3876541490" ref="historia"/>
+    <file name="cultura-y-tradiciones.css" crc="17281279" ref="cultura-y-tradiciones"/>
+    <file name="gracias.css" crc="4108353159" ref="gracias"/>
+    <file name="index.css" crc="4026606958" ref="index"/>
+    <file name="contacto.css" crc="146370286" ref="contacto"/>
+    <file name="car_cteristicas.css" crc="4204437068" ref="carácteristicas"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.png" crc="410373621" seo="true" mt="1744386556000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>historia:phone>carácteristicas:phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>gracias:tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>fotos:phone>contacto:tablet>fotos:tablet>contacto:historia:contacto:fotos"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>fotos:tablet>fotos:historia:fotos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>fotos:tablet>fotos:historia:fotos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>fotos:tablet>fotos:historia:fotos"/>
+    <file name="form_check.php" crc="4050423521" ref="phone>contacto"/>
+    <file name="form_process.php" crc="3946589668" ref="phone>contacto"/>
+    <file name="form-u6758.php" crc="4071882486" ref="phone>contacto"/>
+    <file name="form-u4472.php" crc="169525744" ref="tablet>contacto"/>
+    <file name="form-u1549.php" crc="354692057" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo mvq 1133x50.png" crc="4007894603" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>fotos:tablet>index:tablet>fotos:index:fotos"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marimonda.png" crc="4082303752" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso-3.svg" crc="315937709" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 3_poster_.png" crc="4252894923" ref="phone>index"/>
+    <file name="ff760x507.jpg" crc="360261860" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaaa386x209.jpg" crc="524177815" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="77089-572x360.jpg" crc="254997506" seo="true" ref="phone>carácteristicas:tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="3817854_orig.jpg" crc="160687974" seo="true" ref="phone>carácteristicas:tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="flag-colombian-city-barranquilla-260nw-182005418.jpg" crc="3903575835" seo="true" ref="phone>carácteristicas:tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="escudo_de_barranquilla-jpg-1193x212.png" crc="4046071450" seo="true" ref="phone>carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="r-crop-u6435.jpg" crc="138459555" seo="true" ref="phone>carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="amira_de_la_rosa.jpg" crc="261673107" seo="true" ref="phone>carácteristicas:tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="c-crop-u6485.jpg" crc="77116437" seo="true" ref="phone>cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="mapale-5-crop-u6487.jpg" crc="4029598260" seo="true" ref="phone>cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="caracteristicas-de-la-flor-cayena1234x139.jpg" crc="3797364812" seo="true" ref="phone>cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="oip (1)272x181.jpg" crc="4160087974" seo="true" ref="phone>cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="arroz_de_liza_-_barranquilla-crop-u6493.jpg" crc="496654930" seo="true" ref="phone>cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="g.svg" crc="4177972256" seo="true" ref="phone>galeria:tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="g_poster_.png" crc="495905102" ref="phone>galeria"/>
+    <file name="sharky c209x268.png" crc="468503418" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="cwdpa75sgfhrhaxaklarao2aci.jpg" crc="4001525286" seo="true" ref="phone>fotos:tablet>fotos:fotos">
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="5088214907_78fd81c31d_b.jpg" crc="4174582584" seo="true" ref="phone>fotos:tablet>fotos:fotos">
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="79562-614x360-crop-u6613.jpg" crc="161331711" seo="true" ref="phone>fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="5088230135_727521bdc9_b (1).jpg" crc="524890861" seo="true" ref="phone>fotos:tablet>fotos:fotos">
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="2cd5a5b7bdc50c1f7e8541108409d385.jpg" crc="453191657" seo="true" ref="phone>fotos:tablet>fotos:fotos">
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="ac86192603ae6306240d4f5f3f69f530.jpg" crc="470071393" seo="true" ref="phone>fotos:tablet>fotos:fotos">
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="gracias.svg" crc="4008837154" seo="true" ref="phone>gracias">
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="gracias_poster_.png" crc="4130931949" ref="phone>gracias"/>
+    <file name="sharky c268x327.png" crc="4053888418" seo="true" ref="phone>gracias">
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="logo mvq 1201x76.png" crc="3871053862" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ff.jpg" crc="4179790073" ref="tablet>index:tablet>historia:tablet>carácteristicas:tablet>cultura-y-tradiciones:tablet>galeria:tablet>fotos:tablet>contacto:tablet>gracias:index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="aaaa.jpg" crc="427296459" seo="true" ref="tablet>historia:historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="escudo_de_barranquilla-jpg-1.png" crc="248347523" seo="true" ref="tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="r.jpg" crc="433833149" seo="true" ref="tablet>carácteristicas:carácteristicas">
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+    </file>
+    <file name="c.jpg" crc="336986800" seo="true" ref="tablet>cultura-y-tradiciones:cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="mapale-5.jpg" crc="4065232784" seo="true" ref="tablet>cultura-y-tradiciones:cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="caracteristicas-de-la-flor-cayena1.jpg" crc="78683945" seo="true" ref="tablet>cultura-y-tradiciones:cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="oip (1).jpg" crc="419357524" seo="true" ref="tablet>cultura-y-tradiciones:cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="arroz_de_liza_-_barranquilla.jpg" crc="523358284" seo="true" ref="tablet>cultura-y-tradiciones:cultura-y-tradiciones">
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+    </file>
+    <file name="sharky c.png" crc="4053888418" seo="true" ref="tablet>galeria:tablet>gracias:galeria:gracias">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="79562-614x360-crop-u5002.jpg" crc="161331711" seo="true" ref="tablet>fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+    <file name="recurso-3gracias.svg" crc="4008837154" seo="true" ref="tablet>gracias:gracias">
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="recurso 3gracias_poster_.png" crc="294623175" ref="tablet>gracias"/>
+    <file name="logo.png" crc="496067689" seo="true" ref="index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="logo mvq 1.png" crc="4184789196" seo="true" ref="index:historia:galeria:contacto:fotos:carácteristicas:cultura-y-tradiciones:gracias">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="fotos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="carácteristicas" alt=""/>
+      <caption webpage="cultura-y-tradiciones" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="79562-614x360-crop-u2369.jpg" crc="161331711" seo="true" ref="fotos">
+      <caption webpage="fotos" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_interior.css" crc="494375915" ref="tablet>index:tablet>contacto:tablet>carácteristicas:tablet>historia:tablet>gracias:tablet>cultura-y-tradiciones:tablet>fotos:tablet>galeria"/>
+      <file name="index.css" crc="4169890886" ref="tablet>index"/>
+      <file name="contacto.css" crc="3854623402" ref="tablet>contacto"/>
+      <file name="car_cteristicas.css" crc="4184028406" ref="tablet>carácteristicas"/>
+      <file name="historia.css" crc="4181480710" ref="tablet>historia"/>
+      <file name="gracias.css" crc="3981945929" ref="tablet>gracias"/>
+      <file name="cultura-y-tradiciones.css" crc="230030818" ref="tablet>cultura-y-tradiciones"/>
+      <file name="fotos.css" crc="3880218857" ref="tablet>fotos"/>
+      <file name="galeria.css" crc="68388118" ref="tablet>galeria"/>
+    </folder>
+    <file name="index.html" crc="91619796" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="historia.html" crc="3977730305" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="carácteristicas.html" crc="39552587" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="cultura-y-tradiciones.html" crc="131039164" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="galeria.html" crc="3950643187" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="fotos.html" crc="3988555586" seo="true" mt="1748012107028" redirect="true"/>
+    <file name="contacto.html" crc="4018970302" seo="true" mt="1748014055374" redirect="true"/>
+    <file name="gracias.html" crc="4231331796" seo="true" mt="1748012107028" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_interior.css" crc="3871674581" ref="phone>cultura-y-tradiciones:phone>galeria:phone>fotos:phone>contacto:phone>index:phone>gracias:phone>historia:phone>carácteristicas"/>
+      <file name="cultura-y-tradiciones.css" crc="324822984" ref="phone>cultura-y-tradiciones"/>
+      <file name="galeria.css" crc="4190210909" ref="phone>galeria"/>
+      <file name="fotos.css" crc="3876943647" ref="phone>fotos"/>
+      <file name="contacto.css" crc="3779612315" ref="phone>contacto"/>
+      <file name="index.css" crc="485077796" ref="phone>index"/>
+      <file name="gracias.css" crc="4261773117" ref="phone>gracias"/>
+      <file name="historia.css" crc="3874765833" ref="phone>historia"/>
+      <file name="car_cteristicas.css" crc="4229063775" ref="phone>carácteristicas"/>
+    </folder>
+    <file name="index.html" crc="3827290421" seo="true" mt="1748013509113" redirect="true"/>
+    <file name="historia.html" crc="46819454" seo="true" mt="1748012232819" redirect="true"/>
+    <file name="carácteristicas.html" crc="3836956311" seo="true" mt="1748012232819" redirect="true"/>
+    <file name="cultura-y-tradiciones.html" crc="4104409119" seo="true" mt="1748013056697" redirect="true"/>
+    <file name="galeria.html" crc="174413573" seo="true" mt="1748013186705" redirect="true"/>
+    <file name="fotos.html" crc="4080042491" seo="true" mt="1748013370171" redirect="true"/>
+    <file name="contacto.html" crc="4094870451" seo="true" mt="1748014068751" redirect="true"/>
+    <file name="gracias.html" crc="4224492466" seo="true" mt="1748013564001" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="286754529" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="historia.html" crc="4125928900" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="galeria.html" crc="495789194" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="contacto.html" crc="4153531864" seo="true" mt="1748013408435" redirect="true"/>
+  <file name="fotos.html" crc="206683207" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="carácteristicas.html" crc="4226410175" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="cultura-y-tradiciones.html" crc="3845566585" seo="true" mt="1748012153458" redirect="true"/>
+  <file name="gracias.html" crc="339082626" seo="true" mt="1748012153458" redirect="true"/>
+</manifest>
